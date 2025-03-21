@@ -1,0 +1,15 @@
+body{
+
+}
+h1{
+
+}
+p{
+    text-indent: 30px;
+    letter-spacing: 20px;
+}
+a{
+    text-decoration: none;
+    text-transform: lowercase;/*uppercase; capitalize: upercase the first letter of word; lowercase; none*/
+ 
+}

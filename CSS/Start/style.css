@@ -1,0 +1,14 @@
+ /*id*/
+ #welcome-message{
+background-color: green;/*chabge the background color to green*/
+}
+/*class*/
+h1.heading{
+    color: red;
+}
+/*unniversal selector*/
+*{color: purple;}
+/*groop seelector*/
+h1,p{
+    color: green;
+}

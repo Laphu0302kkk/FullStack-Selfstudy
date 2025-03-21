@@ -1,0 +1,13 @@
+body{
+
+}
+h1{
+    border-style: dashed double dotted solid;
+}
+p{
+    border-style: solid;
+    border-width: thick;/* thin, medium, thick,10px 5px 6px 7px */
+    border-color: red;/*red geen blue #000000*/
+    border-left: 10px dotted red;
+    border-radius: 4%;
+}
