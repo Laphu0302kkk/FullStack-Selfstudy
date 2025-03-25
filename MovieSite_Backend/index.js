@@ -3,8 +3,8 @@ import mongodb from "mongodb";
 import ReviewDAO from "./dao/reviewsDAO.js";
 
 const MongoClient = mongodb.MongoClient;
-const mongo_username = "laphu0302";
-const mongo_password = "123";
+const mongo_username = "useName";
+const mongo_password = "PassWord";
 
 const url=`mongodb+srv://${mongo_username}:${mongo_password}@cluster0.coh3m.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0`;
 
